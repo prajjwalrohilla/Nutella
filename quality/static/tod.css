@@ -1,0 +1,103 @@
+#particles-js {
+  position:fixed;
+width: 100%;
+height: 100%;
+top:0px;
+left: 0px;
+  background-color:springgreen;
+  z-index: -10;
+
+}
+
+
+.new1{
+
+	width: 33vw;
+    border: 2px solid black;
+	height: 70vh;
+    margin: auto;
+margin-top: 6%;
+    text-align: center;
+    border-radius: 3%;
+    background-color: blueviolet;
+    
+  
+}
+
+.new2{
+    
+    color: snow;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: cursive;
+    text-shadow: 1px 1px skyblue;
+
+    
+}
+.new5{
+    
+    color: snow;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-family: cursive;
+    text-shadow: 1px 1px skyblue;
+
+    
+}
+
+.in{
+	width: 21vw;
+	height: 7vh;
+	border-radius: 5%;
+	font-size: 25px;
+	font-family: sans-serif ;
+	color: skyblue;
+    border: 2px solid skyblue;
+    
+}
+.but{
+  height: 8vh;
+   
+	border-radius: 5%;
+	font-size: 25px;
+	font-family: sans-serif ;
+	color: skyblue;
+    border: 2px solid skyblue;
+    
+}
+ul{
+   list-style-type: none;
+color: aqua;
+    font-family: sans-serif;
+    font-size: 25px; 
+  padding: 0px;
+    border: 0px solid black;
+   left: 0px;
+   
+    
+    
+}
+
+li{
+    border: 0px solid white;
+    height: 6.5vh;
+    position: relative;
+    width:33vw;
+    background-color: dodgerblue;
+    border-bottom: 1px solid darkblue;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
